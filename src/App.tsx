@@ -1,5 +1,6 @@
 import { useState, useRef } from "react";
 
+
 const PIN_CODE = "1111";
 const MAX_CLAIMS = 200;
 const HOURS = Array.from({length:24},(_,i)=>({value:i,label:`${(i%12)||12}:00 ${i<12?"AM":"PM"}`}));
