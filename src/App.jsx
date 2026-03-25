@@ -62,7 +62,7 @@ function pickJarPrize() {
   return JAR_PRIZES[JAR_PRIZES.length-1];
 }
 
-const GOLDEN_PRIZE = {label:"GOLDEN HOUR!", prize:30% Off", discount:40, icon:"⭐", color:E.gold,  note:"30% off total bill — Golden Hour winner!", codePrefix:"GOLD"};
+const GOLDEN_PRIZE = {label:"GOLDEN HOUR!", prize:"30% Off", discount:40, icon:"⭐", color:E.gold,  note:"30% off total bill — Golden Hour winner!", codePrefix:"GOLD"};
 const CONSOLATION  = {label:"EASTER TREAT!", prize:"Rs.200 Off", discount:0, icon:"🐣", color:E.pink, note:"Rs.200 off on bill above Rs.600",        codePrefix:"CONS"};
 
 // ── Confetti ──────────────────────────────────────────────────
