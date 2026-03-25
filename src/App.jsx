@@ -48,7 +48,7 @@ const JAR_PRIZES = [
   {label:"AMAZING!", prize:"50% Off",                discount:50,  icon:"🌸", color:E.pink,     weight:2,  note:"50% off total bill",                      codePrefix:"AMAZ"},
   {label:"GLAM!",    prize:"Nail Extension at 999 ", discount:30,  icon:"💅", color:E.lavender, weight:4,  note:"Nail Extension at 999",          codePrefix:"GLAM"},
   {label:"GLOW!",    prize:"25% Off Hair Colour",    discount:25,  icon:"✨", color:E.mint,     weight:5,  note:"25% off hair colour service",             codePrefix:"GLOW"},
-  {label:"FRESH!",   prize:"20% Off Hair services",        discount:20,  icon:"✂️", color:E.sky,      weight:8,  note:"20% off hair service",                 codePrefix:"FRSH"},
+  {label:"FRESH!",   prize:"20% Off Hair services",  discount:20,  icon:"✂️", color:E.sky,      weight:8,  note:"20% off hair service",                 codePrefix:"FRSH"},
   {label:"TREAT!",   prize:"Free Easter Nail Art",   discount:0,   icon:"🐣", color:E.peach,    weight:6,  note:"Free Easter nail art design",             codePrefix:"NAIL"},
   {label:"SPRING!",  prize:"Free Head Massage",      discount:0,   icon:"💆", color:E.pink,     weight:8,  note:"Complimentary head massage",              codePrefix:"HMSG"},
   {label:"BLOOM!",   prize:"Rs.300 Off",             discount:0,   icon:"🌷", color:E.lavender, weight:6,  note:"Rs.300 off on bill above Rs.1000",        codePrefix:"B300"},
